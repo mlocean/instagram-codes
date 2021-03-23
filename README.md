@@ -4,8 +4,8 @@ Here you can find the source code to the our tutorials, posts and blog articles.
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://i.imgur.com/SrYS9Ju.png
+[1.1]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.1]: https://i.imgur.com/SrYS9Ju.png
 
 [1]: http://www.twitter.com/ml_ocean
 [2]: https://www.instagram.com/ml_ocean/
